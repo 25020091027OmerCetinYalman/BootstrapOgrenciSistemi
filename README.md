@@ -15,7 +15,7 @@ Bu proje, Yazılım Mühendisliği müfredatı kapsamında, Bootstrap framework'
 - SB Admin 2 Template
 
 ### 👨‍🏫 Danışman Hoca:
-Dr. Öğr. Üyesi İbrahim ARUK
+Dr. Öğr. Üyesi Uğur Demiroğlu
 
 ### ✍️ Geliştirici:
-Ömer Faruk Bozan - Yazılım Mühendisliği 1. Sınıf
+Ömer Çetin Yalman - Yazılım Mühendisliği 1. Sınıf
